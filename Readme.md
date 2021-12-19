@@ -12,7 +12,7 @@
 ![cmd_KAv5HVjVGD](https://user-images.githubusercontent.com/91074732/146671119-aa988988-f4c6-4b83-844b-8072957a208e.png)
 
 # 3.Find the product price which are not between 400 to 600
-
+![cmd_hKXUqO00xb](https://user-images.githubusercontent.com/91074732/146679617-97b8612e-10e4-4deb-a43d-9df6e7259b9d.png)
 
 # 4.List the four product which are grater than 500 in price 
 ![cmd_S1Ymv9EqDm](https://user-images.githubusercontent.com/91074732/146671637-041154a7-a3cb-4138-93c2-0f896cedad66.png)

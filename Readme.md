@@ -33,4 +33,6 @@
 ![cmd_sjBQDxB4bx](https://user-images.githubusercontent.com/91074732/146681376-18074e61-e62a-41d2-b0b9-2e1894be45b0.png)
 
 # 10.Delete the products which product price value are same
+![cmd_vmGlW33fdT](https://user-images.githubusercontent.com/91074732/146683581-7646425f-3b3c-4508-ada1-c9b836652155.png)
+
 

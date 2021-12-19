@@ -24,7 +24,7 @@
 ![cmd_KXF5Yic4Wz](https://user-images.githubusercontent.com/91074732/146676493-1763d862-8362-4fd7-b138-32941aad6ddd.png)
 
 # 7.Find only the product name and product material
-
+![cmd_0XU85s9k1c](https://user-images.githubusercontent.com/91074732/146681942-20865f1e-7331-4225-80a7-6079bb068882.png)
 
 # 8.Find all products which contain the value of soft in product material
 ![cmd_5IvHjfOUNa](https://user-images.githubusercontent.com/91074732/146677697-95bc947f-7266-4625-bd38-62fc52db4ec9.png)

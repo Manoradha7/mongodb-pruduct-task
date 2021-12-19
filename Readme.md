@@ -9,3 +9,13 @@
 ![cmd_dSoHI8kCrt](https://user-images.githubusercontent.com/91074732/146670782-185d6e0b-f3d8-4f45-b211-f8096e91a72c.png)
 
 # Find the product price which are between 400 to 800
+![cmd_KAv5HVjVGD](https://user-images.githubusercontent.com/91074732/146671119-aa988988-f4c6-4b83-844b-8072957a208e.png)
+
+# Find the product price which are not between 400 to 600
+
+
+# List the four product which are grater than 500 in price 
+![cmd_S1Ymv9EqDm](https://user-images.githubusercontent.com/91074732/146671637-041154a7-a3cb-4138-93c2-0f896cedad66.png)
+
+# Find the product name and product material of each products
+![cmd_srxouzJYAj](https://user-images.githubusercontent.com/91074732/146671815-d8dedb86-4b12-400c-b888-d8edbbd6d432.png)
